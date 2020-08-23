@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: popinns;
+    background-color: lightgray;
+    margin-left: 25px;
+}
+img{
+    margin: 0, auto;
+}
+.container-1{
+    display: flex;
+    margin-left: 25px;
+
+}
+.container-2{
+    display: flex;
+}
+
+}
+.the100{
+    flex: content;
+    margin: 25px;
+    
+}
+.expanse{
+    flex: content;
+    justify-content: space-around;
+}
+.america{
+    font-size: small;
+    justify-content: space-around;
+}
+.great{
+    flex: content;
+}
